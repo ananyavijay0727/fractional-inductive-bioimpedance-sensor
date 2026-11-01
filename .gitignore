@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.mex*
+slprj/
+*.autosave
+
+# Large / private files
+*.pdf
+*.docx
+raw_oscilloscope/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
