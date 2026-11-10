@@ -1,7 +1,6 @@
 % analyze_sweep.m
 % Fractional-order analysis of a measured frequency sweep of the sensor
 % connected as a voltage divider with a load resistor R.
-%
 % Part 1 (no load resistor needed): gain, roll-off slope, constant phase
 %         zone (CPZ) and fractional order alpha from the phase plateau.
 % Part 2 (needs R_load): non-linear least-squares fit of
