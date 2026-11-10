@@ -1,5 +1,4 @@
 # Fabrication and Measurement Setup
-
 ## Sensing films
 | Sensor | Material | Notes |
 |---|---|---|
