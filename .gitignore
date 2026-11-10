@@ -1,6 +1,6 @@
 # MATLAB
 *.asv
-*.m~
+*.m~ 
 *.mat
 *.mex*
 slprj/
