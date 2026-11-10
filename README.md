@@ -1,5 +1,5 @@
 # fractional-inductive-bioimpedance-sensor
-Final-year project: fractional-order modeling and an inductive sensor for IoT-based bioimpedance analysis in a compact wearable system.
+Final-year project: fractional-order modeling and an inductive sensor for IoT-based bioimpedance analysis in a compact wearable system. 
 # Nanocomposite-Based Fractional-Order Inductive Sensor for Non-Invasive Sweat Bio-Impedance Analysis
 
 Final-year project (B.E. Electronics & Communication Engineering, Dayananda Sagar College of Engineering). A passive, low-cost fractional-order inductive sensor made from a CuO-Al2O3 nanocomposite, characterised over 1 kHz to 10 MHz, with a MATLAB pipeline to extract its fractional parameters. The long-term goal is to estimate sweat electrolyte levels non-invasively, with IoT-based remote monitoring.
